@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "First Note",
+      "content": "This is the first note. It can contain **markdown** formatted text."
+    },
+    {
+      "id": 2,
+      "title": "Second Note",
+      "content": "This is the second note. It can contain *italic* text as well."
+    },
+    {
+      "id": 3,
+      "title": "Third Note",
+      "content": "This is the third note. It can contain `inline code` as well."
+    },
+    {
+      "id": 4,
+      "title": "Fourth Note",
+      "content": "This is the fourth note. It can contain multiple paragraphs.\n\nLike this."
+    },
+    {
+      "id": 5,
+      "title": "Fifth Note",
+      "content": "This is the fifth note. It can contain [links](https://www.example.com) too."
+    }
+  ]
+  

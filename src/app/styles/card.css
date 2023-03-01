@@ -1,0 +1,39 @@
+.flashcard {
+    position: relative;
+    width: 800px;
+    background-color: rgb(27, 27, 27);
+    position: relative;
+    border-radius: 10px;
+    color: rgb(159, 199, 153);
+    padding: 20px;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+   
+  
+  .flashcard-front,
+  .flashcard-back {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    color: rgb(159, 199, 153);
+    padding: 20px;
+    font-size: 1.5rem;
+    line-height: 1.5;
+  }
+
+  
+  /* .flashcard-front {
+    z-index: 2;
+    transform: translateZ(1px);
+  }
+  
+  .flashcard-back {
+    z-index: 1;
+    transform: translateZ(0) rotateY(180deg);
+  }
+   */
